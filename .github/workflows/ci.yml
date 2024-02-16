@@ -37,6 +37,6 @@ jobs:
        uses: docker/build-push-action@v5
        with:
          push: true
-         tag: goldengenkins/myapp:latest
+         tag: user/app:latest
 
           
